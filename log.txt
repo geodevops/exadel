@@ -1,0 +1,31 @@
+commit b46857ecae523c8c7b0d1c38316cd6a874b4f749
+Author: Oleg Skogorev <geodevops85@yandex.ru>
+Date:   Wed Aug 4 10:52:09 2021 +0400
+
+    Revert "Modify Readme file"
+    
+    This reverts commit 8b1d20adb86e54b3b41140760cd6a76d1a2a7c1f.
+
+commit 8b1d20adb86e54b3b41140760cd6a76d1a2a7c1f
+Author: Oleg Skogorev <geodevops85@yandex.ru>
+Date:   Wed Aug 4 10:50:06 2021 +0400
+
+    Modify Readme file
+
+commit 341675c98607b5e0a32238425e707ea74079280a
+Author: Oleg Skogorev <geodevops85@yandex.ru>
+Date:   Wed Aug 4 10:43:01 2021 +0400
+
+    create branch geodevops_new_feature ,README and gitignorefile
+
+commit 09552bdf9e19d5fd57729b683eebc8d784eff382
+Author: Oleg Skogorev <geodevops85@yandex.ru>
+Date:   Wed Aug 4 07:57:38 2021 +0400
+
+    create new file
+
+commit d5271553b9ad362622c22c5417d0dd96439056c9
+Author: Oleg Skogorev <olegsko@xcritical.software>
+Date:   Wed Aug 4 01:29:00 2021 +0400
+
+    create folder task1 and file README
