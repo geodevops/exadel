@@ -1,0 +1,8 @@
+Make sure there is an SSH connection from your host to the created EC2. What IP EC2 used for it?
+
+For SSH connection to EC2 we need using public IP of created instance
+
+
+Make sure is an ping and SSH passed from one instance to another and vice versa. Configure SSH connectivity between instances using SSH keys.
+
+For ping and SSH connection between instance need give such rule in Security group
